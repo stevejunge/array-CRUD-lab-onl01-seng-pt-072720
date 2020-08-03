@@ -28,6 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   steves_array = ["wow", "tv", "desk", "couch", "table", "arrays!"]
+  steves_array[1]
   
 end
 
